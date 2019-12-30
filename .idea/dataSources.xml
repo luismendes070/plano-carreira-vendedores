@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - plano_carreira_vendedores@localhost" uuid="5805bb69-2829-42a6-bbf9-6dee297ec5b5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/plano_carreira_vendedores</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="plano_carreira_vendedores@localhost" uuid="3c708f79-1822-441f-96d5-020c2fa5bc99">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>phpmyadminwamp</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3308/plano_carreira_vendedores</jdbc-url>
+    </data-source>
+  </component>
+</project>

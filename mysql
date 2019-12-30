@@ -1,0 +1,8 @@
+https://dev.mysql.com/doc/refman/8.0/en/json.html
+
+wamp
+http://localhost/phpmyadmin
+
+SET @@global.time_zone = '+3:00';
+
+CREATE TABLE `plano_carreira_vendedores`.`vendedores` ( `id` JSON NOT NULL , `perna_esquerda` JSON NOT NULL , `perna_direita` JSON NOT NULL ) ENGINE = MyISAM;
