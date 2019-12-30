@@ -6,6 +6,7 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/plano_carreira_vendedores</jdbc-url>
+      <time-zone>+3:00</time-zone>
     </data-source>
     <data-source source="LOCAL" name="plano_carreira_vendedores@localhost" uuid="3c708f79-1822-441f-96d5-020c2fa5bc99">
       <driver-ref>mysql.8</driver-ref>
@@ -13,6 +14,7 @@
       <remarks>phpmyadminwamp</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3308/plano_carreira_vendedores</jdbc-url>
+      <time-zone>+3:00</time-zone>
     </data-source>
   </component>
 </project>
